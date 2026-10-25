@@ -1,0 +1,2 @@
+# voip-engineer-journal
+JOURNAL FOR LEARNING ASTERISK ENGINEERING:
