@@ -22,3 +22,27 @@ clear	Clean screen
 man command	Open manual
 sudo	Run as admin
 exit	Close terminal/session
+day 2--------------------------------------------------------
+- cp a b = copy file
+- cp file folder/ = copy into folder
+- rm file = delete file
+- rm -r folder = delete folder
+day 3--------------------------------------------------------
+Command	Work
+rm -i file	Ask before delete
+mkdir -p a/b/c	Make nested folders
+ls -R	List all levels
+cp -r dir newdir	Copy folder
+/path	Absolute path
+../	Go up one level
+Tab	Auto-complete
+history	Past commands
+
+SHORTCUTS 
+Tab key: type the first letters of a name and press Tab. Linux completes it. Try cat fir then Tab. Press Tab twice to see all matches.
+Up arrow: brings back your previous commands.
+history: shows the list of all commands you ran.
+Ctrl+C: stops a running command or clears a messy line.
+Ctrl+L: clears the screen.
+
+- 
